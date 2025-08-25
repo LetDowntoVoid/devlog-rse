@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktemp_site=self.webpackChunktemp_site||[]).push([[145],{2684:e=>{e.exports=JSON.parse('{"tags":[{"label":"Brain Flatulance (Horsing Aounr)","permalink":"/devlog-rse/blog/tags/brainflatulance","description":"This means the post will NOT be serious. At all. It is just me having fun.","count":1}]}')}}]);
