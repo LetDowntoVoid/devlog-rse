@@ -4,7 +4,7 @@
         <title>My Site Blog</title>
         <link>https://letdowntovoid.github.io/devlog-rse/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Sun, 01 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Aug 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,22 +12,39 @@
             <title><![CDATA[Orientation]]></title>
             <link>https://letdowntovoid.github.io/devlog-rse/blog/orientation</link>
             <guid>https://letdowntovoid.github.io/devlog-rse/blog/orientation</guid>
-            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to the first BrainFlatulance. This shall be the term I intend to use to explain what's going on in my mind.]]></description>
             <content:encoded><![CDATA[<p>Welcome to the first BrainFlatulance. This shall be the term I intend to use to explain what's going on in my mind.</p>
 <p>For the project of course.</p>
 <p>Now this would be the FIRST ever blog thing and this is where we are, and here are the prerequisites for you reader</p>
-<div class="theme-admonition theme-admonition-warning admonition_xJq3 alert alert--warning"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>warning</div><div class="admonitionContent_BuS1"><p>Remember, this is a devlog. Not a documentation. The main documentation will come out once I get close to release.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="so">SO,<a href="https://letdowntovoid.github.io/devlog-rse/blog/orientation#so" class="hash-link" aria-label="Direct link to SO," title="Direct link to SO,">​</a></h3><h1>DO NOT COMPLAIN IF THIS DEV LOG IS UNHINGED AND INFORMAL I DO THIS TO KEEP MY MIND EMPTY OK?</h1></div></div>
+<admonition type="warning"><p>Remember, this is a devlog. Not a documentation. The main documentation will come out once I get close to release.</p><h3 id="so">SO,</h3><h1 id="do-not-complain-if-this-dev-log-is-unhinged-and-informal-i-do-this-to-keep-my-mind-empty-ok">DO NOT COMPLAIN IF THIS DEV LOG IS UNHINGED AND INFORMAL I DO THIS TO KEEP MY MIND EMPTY OK?</h1></admonition>
 <!-- -->
-<h1>YOU GOTTA KNOW THESE THINGS BEFORE YOU READ THIS DEVLOG THINGS</h1>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="this-is-my-devlog-mine">this is MY devlog. MINE<a href="https://letdowntovoid.github.io/devlog-rse/blog/orientation#this-is-my-devlog-mine" class="hash-link" aria-label="Direct link to this is MY devlog. MINE" title="Direct link to this is MY devlog. MINE">​</a></h2>
-<h1>OK? This is MY DEVLOG. letdowntovoid's YES MINE</h1>
+<h1 id="you-gotta-know-these-things-before-you-read-this-devlog-thing">YOU GOTTA KNOW THESE THINGS BEFORE YOU READ THIS DEVLOG THING</h1>
+<h3 id="this-is-my-devlog-mine">this is MY devlog. MINE</h3>
+<h2 id="ok-this-is-my-devlog-letdowntovoids-yes-mine">OK? This is MY DEVLOG. letdowntovoid's YES MINE</h2>
 <p>That means I will have fun and I will write this to my humour. Of course I will have tags to separate content from good ones to
 stupid ones to serious ones. My tags should define how good an topic is.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="this-is-not-a-documentation">This is NOT a documentation.<a href="https://letdowntovoid.github.io/devlog-rse/blog/orientation#this-is-not-a-documentation" class="hash-link" aria-label="Direct link to This is NOT a documentation." title="Direct link to This is NOT a documentation.">​</a></h2>
+<h2 id="this-is-not-a-documentation">This is NOT a documentation.</h2>
 <p>This is not a documentation of the project. This will just host my thoughts on what might happen and what is going on currently.
 I don't like people who will refer to this as the documentation. No.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="this-is-a-statement-from-voidworks-inc-ltd-gmbh-for-legal-reasons-this-is-a-joke-and-i-am-not-registered-please-dont-sue-me">This is a STATEMENT from VoidWorks Inc. Ltd. GmbH. [FOR LEGAL REASONS THIS IS A JOKE AND I AM NOT REGISTERED PLEASE DON'T SUE ME]<a href="https://letdowntovoid.github.io/devlog-rse/blog/orientation#this-is-a-statement-from-voidworks-inc-ltd-gmbh-for-legal-reasons-this-is-a-joke-and-i-am-not-registered-please-dont-sue-me" class="hash-link" aria-label="Direct link to This is a STATEMENT from VoidWorks Inc. Ltd. GmbH. [FOR LEGAL REASONS THIS IS A JOKE AND I AM NOT REGISTERED PLEASE DON'T SUE ME]" title="Direct link to This is a STATEMENT from VoidWorks Inc. Ltd. GmbH. [FOR LEGAL REASONS THIS IS A JOKE AND I AM NOT REGISTERED PLEASE DON'T SUE ME]">​</a></h3>]]></content:encoded>
+<p><em>This is a STATEMENT from VoidWorks Inc. Ltd. GmbH. [FOR LEGAL REASONS THIS IS A JOKE AND I AM NOT REGISTERED PLEASE DON'T SUE ME]</em></p>
+<h2 id="i-have-no-idea-when-this-project-will-complete-itself-or-what-am-i-doing">I have NO idea when this project will complete itself or what am I doing</h2>
+<p>Seriously, I don't. I just came up with something impressive to impress the huzz B]</p>
+<h2 id="i-would-love-every-single-bit-of-support-from-you-people-for-this-project-3">I would love every single bit of support from you people for this project &lt;3</h2>
+<p>No seriously, I do. This project is something I am making while I learn so this will not be the best quality work. At all.
+I would LOVE people joining me on this train and contribute with me on this project for the public. This is an abitiious project and you can join a development / miscellaneous server on Discord over at (this server)[<a href="https://discord.gg/F7yZJaRwS4">https://discord.gg/F7yZJaRwS4</a>].</p>
+<p>I am not a very good developer and I will make mistakes so if you can help me test it feel free to join me!</p>
+<h2 id="this-project-will-be-open-sourced-and-free-for-all-and-a-small-textwall">This project WILL be open sourced and free for all! [and a small textwall]</h2>
+<p>As a developer who was on Roblox since 2016 (technically 2018 cause I actually stuck around after that), I loved Roblox. It gave me access to a massive community of some really REALLY good games.
+I don't mean games that are cashgrabs I mean genuinely insanely fun games. I do not want to name any until I get their permission to but these games have allowed me to stick around on the platform and become a developer as well.
+I understand that as we 25th of August, 2025, Roblox is recieving massive amounts of backlash with its course of actions on protecting their users and I have a feeling that the platform might not last.</p>
+<p>This is why I am strongly moving forward with this project as well. I initially thought of this project back in 2020 but since I did not have much drive + I was not as good as I am today I was not ready to do this, but with recent circumstances I feel like I should
+start something about this. That is why I want to make this project.</p>
+<p>This project will be for everyone on the community and developers will <em>HOPEFULLY</em> be able to use the SDK to port over <code>rbxl</code> files into idk the game itself and run it as if its a standalone game. I have quite a bit to do and quite a bit to figure out but sure, I intend to do this over a few years.</p>
+<h1 id="thats-a-small-sob-story-over">That's a small sob story over;</h1>
+<p>but that describes why I wish to make this project.</p>
+<p>How will I do it?</p>
+<p>I have no <span class="spoiler"><span>fucking</span></span> idea.</p>]]></content:encoded>
             <category>Brain Flatulance (Horsing Aounr)</category>
         </item>
     </channel>

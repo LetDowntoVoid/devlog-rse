@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktemp_site=self.webpackChunktemp_site||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Orientation","permalink":"/devlog-rse/blog/orientation","unlisted":false,"date":"2021-08-01T00:00:00.000Z"}]}')}}]);
